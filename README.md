@@ -13,7 +13,7 @@ const Rémi = {
   pronouns: "he" | "him",
   details: {
       country: "France 🇫🇷",
-      age: "18yo"
+      age: "18yo",
       role: "Computer Science student"
   },
   code: [Python, HTML, CSS, PHP, SQL, C, C++],
