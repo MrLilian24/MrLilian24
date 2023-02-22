@@ -17,7 +17,7 @@ const Rémi = {
       role: "Computer Science student"
   },
   code: [Python, HTML, CSS, PHP, SQL, C, C++],
-  tools: [VisualStudio, JetBrains, PostgresSQL, MySQL, Apache],
+  tools: [VisualStudio, JetBrains, PostgreSQL, MySQL, Apache],
   askMeAbout: ["video games", "tech", "game dev", "front-end"],
   self.language_spoken = ["fr_FR", "en_US"]
 }
