@@ -13,10 +13,10 @@ const Rémi = {
   pronouns: "he" | "him",
   details: {
       country: "France 🇫🇷",
-      age: "18yo",
+      age: "19yo",
       role: "Computer Science student"
   },
-  code: [Python, HTML, CSS, PHP, SQL, C, C++],
+  code: [Python, HTML, CSS, PHP, SQL, C, C++, C#],
   tools: [VisualStudio, JetBrains, PostgreSQL, MySQL, Apache],
   askMeAbout: ["video games", "tech", "game dev", "front-end"],
   self.language_spoken = ["fr_FR", "en_US"]
@@ -28,5 +28,5 @@ const Rémi = {
 
 <div align = "center">
 Email (Pro Only): mrlilian24@gmail.com</br>
-Discord: Lilian24#7884
+Discord: lilian24
 </div></br>
