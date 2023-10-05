@@ -27,6 +27,6 @@ const Rémi = {
 ### Contact :
 
 <div align = "center">
-Email (Pro Only): mrlilian24@gmail.com</br>
+Email (Pro Only): contact@remi-lvg.com</br>
 Discord: lilian24
 </div></br>
