@@ -13,11 +13,11 @@ const Rémi = {
   pronouns: "he" | "him",
   details: {
       country: "France 🇫🇷",
-      age: "19yo",
+      age: "20yo",
       role: "Computer Science student"
   },
-  code: [Python, HTML, CSS, PHP, SQL, C, C++, C#],
-  tools: [VisualStudio, JetBrains, PostgreSQL, MySQL, Apache],
+  code: [Python, HTML, CSS, PHP, SQL, C, C++, C#, Java, PHP],
+  tools: [VisualStudio, JetBrains, PostgreSQL, MySQL, Apache, Docker],
   askMeAbout: ["video games", "tech", "game dev", "front-end"],
   self.language_spoken = ["fr_FR", "en_US"]
 }
