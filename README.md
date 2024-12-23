@@ -13,8 +13,8 @@
 
 💻 **Computer Science Student** from **France**, focused on **game development** and **software engineering**.  
 🎮 Creator of **NeoRP**, a DarkRP-like gamemode for **S&Box** using **C#** and **Razor UI**.  
-🌐 Co-developer of **Let's Go!**, a **complete English learning app**.
-📈 Passionate about **DevOps practices** and **CI/CD** for workflows.  
+🌐 Co-developer of **Let's Go!**, a **complete English learning app** on web & mobile.  
+📈 Curious about **DevOps practices** and **CI/CD** for workflows.  
 
 ---
 
