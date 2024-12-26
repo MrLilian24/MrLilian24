@@ -62,7 +62,7 @@
 ### 🚀 **Latest Projects**  
 
 - [NeoRP](https://github.com/MrLilian24/neorp) - DarkRP-like gamemode for **S&Box**.  
-- [Let's Go!](https://github.com/MrLilian24/lets-go) - English learning app with **PHP, MariaDB, Kotlin/Android and Blazor**.  
+- [Let's Go!](https://codefirst.iut.uca.fr/git/LetsGo) - English learning app with **PHP, MariaDB, Kotlin/Android and Blazor**.  
 
 ---
 
