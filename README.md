@@ -13,7 +13,8 @@
 
 💻 **Computer Science Student** from **France**, focused on **game development** and **software engineering**.  
 🎮 Creator of **NeoRP**, a DarkRP-like gamemode for **S&Box** using **C#** and **Razor UI**.  
-🌐 Co-developer of **Let's Go!**, a **complete English learning app** on web & mobile.  
+🌐 **Scrum Master** in a team of 6, co-developing **Let's Go!**, an **English learning app** with **PHP** (web), **Blazor**, **MariaDB**, and **Android Kotlin** (mobile).  
+📚 Co-creator of **GameAtlas**, a **game library app** built with **.NET MAUI**, featuring **search**, **favorites**, and **rating systems** for video games
 📈 Curious about **DevOps practices** and **CI/CD** for workflows.  
 
 ---
@@ -62,7 +63,8 @@
 ### 🚀 **Latest Projects**  
 
 - [NeoRP](https://github.com/MrLilian24/neorp) - DarkRP-like gamemode for **S&Box**.  
-- [Let's Go!](https://codefirst.iut.uca.fr/git/LetsGo) - English learning app with **PHP, MariaDB, Kotlin/Android and Blazor**.  
+- [Let's Go!](https://codefirst.iut.uca.fr/git/LetsGo) - English learning app with **PHP, MariaDB, Kotlin/Android and Blazor**.
+- [GameAtlas](https://github.com/MrLilian24/gameatlas) - My first Android app with **.NET MAUI** and **C#** (MVVM) (game library).
 
 ---
 
