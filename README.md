@@ -62,15 +62,6 @@ const rémi = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrLilian24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLilian24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
 ## 💼 Experience
 
 **Full-Stack & AI Developer** @ [IMAAAGERY](https://www.imaaagery.com) *(Sept 2025 - Aug 2026)*  
