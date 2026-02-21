@@ -26,7 +26,7 @@ const rémi = {
 };
 ```
 
-🌱 Currently building **[GeoGarden](https://github.com/GeoGarden-Team)** (Smart gardening app) & **[Edena](https://github.com/MrLilian24/edena)** (Soil classification ML model)
+🌱 Currently building **[GeoGarden](https://github.com/GeoGarden-Team)** (Smart gardening app) & research on reproducing **[Slope-Based Attacks on Financial Time-Series Data](https://github.com/MrLilian24/adversarial-financial-forecasting)**
 
 ---
 
